@@ -163,7 +163,7 @@ driver.get('<address of target website>')
 ## Common Functions for Element Access
 Here are some common Selenium functions for element interaction:
 
-- **Presence of Elements**: 
+- **Presence of All Elements**: 
   ```python
   EC.presence_of_all_elements_located
   ```
@@ -175,6 +175,46 @@ Here are some common Selenium functions for element interaction:
   ```python
   EC.visibility_of_element_located
   ```
+- **Visibility of All Elements**: 
+  ```python
+  EC.visibility_of_all_elements_located
+  ```
+- **Text Present in Element**: 
+  ```python
+  EC.text_to_be_present_in_element
+  ```
+- **Element Selected**: 
+  ```python
+  EC.element_to_be_selected
+  ```
+- **Invisibility of Element**: 
+  ```python
+  EC.invisibility_of_element_located
+  ```
+- **Element Selection State**: 
+  ```python
+  EC.element_selection_state_to_be
+  ```
+- **Element Visibility**: 
+  ```python
+  EC.visibility_of
+  ```
+- **Presence of Element**: 
+  ```python
+  EC.presence_of_element_located
+  ```
+- **Frame Available and Switch**: 
+  ```python
+  EC.frame_to_be_available_and_switch_to_it
+  ```
+- **Staleness of Element**: 
+  ```python
+  EC.staleness_of
+  ```
+- **Alert Present**: 
+  ```python
+  EC.alert_is_present
+  ``` 
 
 ## Database Insertion
 To insert records into your database using Django's ORM:
