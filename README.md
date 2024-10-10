@@ -248,5 +248,41 @@ To insert records into your database using Django's ORM:
 This README provides a comprehensive guide to setting up a web scraping application. Follow each section carefully to create your own tool. Adjust the code snippets and configurations based on your specific requirements.
 
 📬 **Contact Me: If you're interested in building an application that monitors dark web platforms, feel free to reach out:**
-<a href="https://www.linkedin.com/in/your-username" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; border: 1px solid #0077b5;">Connect on LinkedIn</a>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connect on LinkedIn</title>
+    <style>
+        .linkedin-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0077b5; /* LinkedIn Blue */
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            margin: 10px 0;
+            border: 1px solid #0077b5; /* LinkedIn Blue Border */
+            transition: background-color 0.3s, border-color 0.3s;
+        }
+        .linkedin-button:hover {
+            background-color: #005582; /* Darker LinkedIn Blue */
+            border-color: #005582; /* Darker LinkedIn Blue Border */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Let's Connect!</h1>
+    <p>If you're interested in building an application that monitors dark web platforms, feel free to reach out:</p>
+    
+    <a href="https://www.linkedin.com/in/your-username" target="_blank" class="linkedin-button">
+        Connect on LinkedIn
+    </a>
+
+</body>
+</html>
 
