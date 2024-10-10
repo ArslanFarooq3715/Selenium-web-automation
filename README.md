@@ -247,8 +247,8 @@ To insert records into your database using Django's ORM:
 ## Conclusion
 This README provides a comprehensive guide to setting up a web scraping application. Follow each section carefully to create your own tool. Adjust the code snippets and configurations based on your specific requirements.
 
-📬 **Contact Me**
+##📬 **Contact Me**
 If you're interested in building an application that monitors dark web platforms, feel free to reach out:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-f)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-f)
 
