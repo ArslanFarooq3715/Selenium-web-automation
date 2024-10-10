@@ -247,42 +247,8 @@ To insert records into your database using Django's ORM:
 ## Conclusion
 This README provides a comprehensive guide to setting up a web scraping application. Follow each section carefully to create your own tool. Adjust the code snippets and configurations based on your specific requirements.
 
-📬 **Contact Me: If you're interested in building an application that monitors dark web platforms, feel free to reach out:**
+📬 **Contact Me**
+If you're interested in building an application that monitors dark web platforms, feel free to reach out:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Connect on LinkedIn</title>
-    <style>
-        .linkedin-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #0077b5; /* LinkedIn Blue */
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 16px;
-            margin: 10px 0;
-            border: 1px solid #0077b5; /* LinkedIn Blue Border */
-            transition: background-color 0.3s, border-color 0.3s;
-        }
-        .linkedin-button:hover {
-            background-color: #005582; /* Darker LinkedIn Blue */
-            border-color: #005582; /* Darker LinkedIn Blue Border */
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Let's Connect!</h1>
-    <p>If you're interested in building an application that monitors dark web platforms, feel free to reach out:</p>
-    
-    <a href="https://www.linkedin.com/in/your-username" target="_blank" class="linkedin-button">
-        Connect on LinkedIn
-    </a>
-
-</body>
-</html>
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-f)
 
